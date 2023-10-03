@@ -21,39 +21,44 @@ function generateMarkdown(data) {
     const licenseBadge = data.license !== 'None' && licenseBadges[data.license] || '';
 
     const readmeContent = `
-# Project Title
-${data.title}
+# ${data.title}
 ${licenseBadge}
 
-# Description
-${data.desscription}
+## Description
+${data.description}
 
-# Table of Contents
-*[Installation](#installation)
-*[Usage](#usage)
-*[License](#license)
-*[Contributing](#contributing)
-*[Tests](#test)
-*[Questions](#contact-information)
+## Table of Contents:
 
-# Installation
+[Installation](#installation)
+
+[Usage](#usage)
+
+[License](#license)
+
+[Contributing](#contributing)
+
+[Tests](#test)
+
+[Questions](#contact-information)
+
+## Installation
 ${data.installation}
 
-# Usage
+## Usage
 ${data.usage}
 
-# License
+## License
 ${data.license}
 
-# Contributing
+## Contributing
 ${data.contributing}
 
-# Tests
-${data.tests}
+## Tests
+${data.test}
 
-# Contact Information
-* Github Username: ${data.userName}
-* Contact E-mail: ${data.userEmail}
+## Contact Information
+Github Username: ${data.userName}
+Contact E-mail: ${data.userEmail}
 `;
 
 // return generated content
