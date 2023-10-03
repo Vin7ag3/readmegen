@@ -1,34 +1,39 @@
 
-# Project Title
-Readmegen
+# Readmegen
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Description
-undefined
+## Description
+Create a command-line application that dynamically creates a readme
 
-# Table of Contents
-*[Installation](#installation)
-*[Usage](#usage)
-*[License](#license)
-*[Contributing](#contributing)
-*[Tests](#test)
-*[Questions](#contact-information)
+## Table of Contents:
 
-# Installation
-None
+[Installation](#installation)
 
-# Usage
-In the command-line use 'node.js' it will prompt user with a series of questions and a README.md will generate in accodance to the user(s) response.
+[Usage](#usage)
 
-# License
+[License](#license)
+
+[Contributing](#contributing)
+
+[Tests](#test)
+
+[Questions](#contact-information)
+
+## Installation
+none
+
+## Usage
+In the command-line use 'node js' it will prompt user with a series of questions and a READMEmd will generate in accodance to the user(s) response
+
+## License
 MIT
 
-# Contributing
-None
+## Contributing
+none
 
-# Tests
-undefined
+## Tests
+none
 
-# Contact Information
-* Github Username: Vin7ag3
-* Contact E-mail: vincepeo@yahoo.com
+## Contact Information
+Github Username: Vin7ag3
+Contact E-mail: vincepeo@yahoo.com

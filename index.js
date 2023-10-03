@@ -29,13 +29,13 @@ const questions = [
         name: "installation",
         message: "Enter an explanation on how to install the software for this program.",
     },
-// Usage
+// usage
     {
         type: "input",
         name: "usage",
         message: "Describe the usage for this program",
     },
-// License
+// license
     {
         type: "list",
         name: "license",
