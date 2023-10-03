@@ -23,7 +23,8 @@ Create a command-line application that dynamically creates a readme
 none
 
 ## Usage
-In the command-line use 'node js' it will prompt user with a series of questions and a READMEmd will generate in accodance to the user(s) response
+In the command-line use 'node js' it will prompt user with a series of questions and a READMEmd will generate in accodance to the user(s) response. 
+Link to video demonstration: https://www.loom.com/share/212d0f7648864230a7b5286bd1bd5a0e
 
 ## License
 MIT
